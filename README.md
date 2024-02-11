@@ -1,5 +1,5 @@
 # mbeleler
-Project dari customer membuat labeling secara otomatis, lebih cocok untuk kalimat/kata yang dominan (positif/negatif/netral)
+Project dari customer membuat labeling baris secara otomatis pada kolom tartuju, lebih cocok untuk kalimat/kata yang dominan (positif/negatif/netral)
 
 
 Clone repo
