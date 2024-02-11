@@ -4,7 +4,7 @@ Project dari customer membuat labeling baris secara otomatis pada kolom tartuju,
 
 Clone repo
 ```
-git clone https://github.com/Tektek9/mbeleler.git
+git clone https://github.com/Tektek9/mbleler.git
 ```
 
 Instal requirement
@@ -24,4 +24,4 @@ python.exe mbleler.py -h
 ```
 python.exe mbleler.py --help
 ```
-![](https://github.com/Tektek9/mbeleler/blob/main/demo.gif)
+![](https://github.com/Tektek9/mbleler/blob/main/demo.gif)
