@@ -1,5 +1,5 @@
 # mbleler
-Project dari customer membuat labeling baris secara otomatis pada kolom tertuju, lebih cocok untuk kalimat/kata yang dominan (positif/negatif/netral)
+Project dari customer membuat labeling dengan menambahkan background color baris secara otomatis pada kolom tertuju, lebih cocok untuk kalimat/kata yang dominan (positif/negatif/netral)
 
 
 Clone repo
