@@ -24,4 +24,4 @@ python.exe mbleler.py -h
 ```
 python.exe mbleler.py --help
 ```
-![](https://github.com/Tektek9/mbleler/blob/main/demo.gif)
+           ![](https://github.com/Tektek9/mbleler/blob/main/demo.gif)
