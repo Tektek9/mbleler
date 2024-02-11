@@ -1,4 +1,4 @@
-# mbeleler
+# mbleler
 Project dari customer membuat labeling baris secara otomatis pada kolom tartuju, lebih cocok untuk kalimat/kata yang dominan (positif/negatif/netral)
 
 
