@@ -28,7 +28,7 @@ class mblelerClub:
     kolom  - head table target yang akan di lakukan eksekusi
     target - kata/kalimat yang mau diberi label
     label  - untuk memberi patternfill pada row yang mengandung kalimat tersebut
-    output - file output (.xslx)
+    output - file output (.xlsx)
 
 Jenis label dan warnanya:
     negatif - merah
