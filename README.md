@@ -12,7 +12,7 @@ Instal requirement
 pip install -r requirement.txt
 ```
 
-Jalan kan program
+Jalankan program
 ```
 python.exe mbleler.py
 ```
